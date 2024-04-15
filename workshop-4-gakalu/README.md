@@ -1,5 +1,5 @@
-# CS571 Workshop 02
-## MIU Courses Review App
+# Course review app using react-native
+## Courses Review App
 Start by creating a new expo project, copy the provided components, and then start working on the requirements, you will need to add additional dependencies based on the requirements. **Check the screenshots below**.  
 * To start, install and update all dependencies.
 * Complete the code in `App.js` to render an application with the following structure:
